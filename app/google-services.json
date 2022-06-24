@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431710180179",
+    "project_id": "pokemonapp-43a11",
+    "storage_bucket": "pokemonapp-43a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431710180179:android:e929b348a2074cf43c07a6",
+        "android_client_info": {
+          "package_name": "com.adem.pokemonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431710180179-3ipup0e2o6hf7eacp2965hbfpkegtq72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcDJ-btzX1RobO27jL6f0tkssjQn8Mn_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431710180179-3ipup0e2o6hf7eacp2965hbfpkegtq72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
